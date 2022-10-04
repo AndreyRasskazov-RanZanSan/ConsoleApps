@@ -17,6 +17,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeaceForAllWorld", "PeaceFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoWar", "NoWar\NoWar.csproj", "{1AF29F69-405F-4436-BFBB-8BA92AD6C51F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopPutinStopTheWar", "StopPutinStopTheWar\StopPutinStopTheWar.csproj", "{7C5B3386-E8CA-4CC6-BC9E-463EAC1BFA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAmRussianAndIAmAgainstTheWar", "IAmRussianAndIAmAgainstTheWar\IAmRussianAndIAmAgainstTheWar.csproj", "{51369445-146E-4E61-9EE4-DAE6E50726CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeaceForUkraineAndAllOfEurope", "PeaceForUkraineAndAllOfEurope\PeaceForUkraineAndAllOfEurope.csproj", "{76EA9468-3EA1-4213-B754-A21B2AC78E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoToPutin’sWarNoToAllWars", "NoToPutin’sWarNoToAllWars\NoToPutin’sWarNoToAllWars.csproj", "{071FDE2B-AAD3-44A6-9EFF-2BBE5FB23389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +59,22 @@ Global
 		{1AF29F69-405F-4436-BFBB-8BA92AD6C51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AF29F69-405F-4436-BFBB-8BA92AD6C51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AF29F69-405F-4436-BFBB-8BA92AD6C51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5B3386-E8CA-4CC6-BC9E-463EAC1BFA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5B3386-E8CA-4CC6-BC9E-463EAC1BFA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5B3386-E8CA-4CC6-BC9E-463EAC1BFA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5B3386-E8CA-4CC6-BC9E-463EAC1BFA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51369445-146E-4E61-9EE4-DAE6E50726CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51369445-146E-4E61-9EE4-DAE6E50726CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51369445-146E-4E61-9EE4-DAE6E50726CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51369445-146E-4E61-9EE4-DAE6E50726CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EA9468-3EA1-4213-B754-A21B2AC78E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EA9468-3EA1-4213-B754-A21B2AC78E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EA9468-3EA1-4213-B754-A21B2AC78E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EA9468-3EA1-4213-B754-A21B2AC78E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071FDE2B-AAD3-44A6-9EFF-2BBE5FB23389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071FDE2B-AAD3-44A6-9EFF-2BBE5FB23389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071FDE2B-AAD3-44A6-9EFF-2BBE5FB23389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071FDE2B-AAD3-44A6-9EFF-2BBE5FB23389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
