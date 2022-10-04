@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeLoveNotWar", "MakeLoveN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You’veHeardItBefore", "You’veHeardItBefore\You’veHeardItBefore.csproj", "{C8F1DACB-2D0C-4D2F-BDBE-F958E089D42A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombingForPeaceIsLikeFuckingForVirginity", "BombingForPeaceIsLikeFuckingForVirginity\BombingForPeaceIsLikeFuckingForVirginity.csproj", "{90EC55E8-82E4-4CB6-8CDC-9AE4EC5C825B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeaceForAllWorld", "PeaceForAllWorld\PeaceForAllWorld.csproj", "{7687A36E-282B-4EC4-92AF-AA4A1DEB3812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{C8F1DACB-2D0C-4D2F-BDBE-F958E089D42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F1DACB-2D0C-4D2F-BDBE-F958E089D42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F1DACB-2D0C-4D2F-BDBE-F958E089D42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EC55E8-82E4-4CB6-8CDC-9AE4EC5C825B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EC55E8-82E4-4CB6-8CDC-9AE4EC5C825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EC55E8-82E4-4CB6-8CDC-9AE4EC5C825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EC55E8-82E4-4CB6-8CDC-9AE4EC5C825B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7687A36E-282B-4EC4-92AF-AA4A1DEB3812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7687A36E-282B-4EC4-92AF-AA4A1DEB3812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7687A36E-282B-4EC4-92AF-AA4A1DEB3812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7687A36E-282B-4EC4-92AF-AA4A1DEB3812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
