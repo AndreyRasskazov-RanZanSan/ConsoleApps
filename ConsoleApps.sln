@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32901.82
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{C015756A-326B-405C-BD3A-0034CC9FF689}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoToPutin’sWarNoToAllWars", "NoToPutin’sWarNoToAllWars\NoToPutin’sWarNoToAllWars.csproj", "{071FDE2B-AAD3-44A6-9EFF-2BBE5FB23389}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeLovePlayGamesNotWar", "MakeLovePlayGamesNotWar\MakeLovePlayGamesNotWar.csproj", "{81A6F8DE-B97A-4841-B016-0BD265F28003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTurkey", "HelloTurkey\HelloTurkey.csproj", "{469D8764-5C04-40FF-B555-3F38A270979F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{81A6F8DE-B97A-4841-B016-0BD265F28003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81A6F8DE-B97A-4841-B016-0BD265F28003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81A6F8DE-B97A-4841-B016-0BD265F28003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469D8764-5C04-40FF-B555-3F38A270979F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469D8764-5C04-40FF-B555-3F38A270979F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469D8764-5C04-40FF-B555-3F38A270979F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469D8764-5C04-40FF-B555-3F38A270979F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
